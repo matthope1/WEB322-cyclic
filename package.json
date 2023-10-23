@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/matthope1/WEB322-cyclic/issues"
   },
-  "homepage": "https://github.com/matthope1/WEB322-cyclic#readme"
+  "homepage": "https://github.com/matthope1/WEB322-cyclic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
